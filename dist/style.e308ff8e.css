@@ -1,0 +1,15 @@
+#header {
+    margin-bottom: 20px;
+  }
+  
+  #pinkslips {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .pinkslip {
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
